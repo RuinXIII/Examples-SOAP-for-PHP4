@@ -1,5 +1,5 @@
 # Examples-SOAP-for-PHP4
-An example implementation of the VoIP.ms API using PHP
+An example implementation of the VoIP.ms API using PHP4
 
 # Documentation
 The Voip.ms API documentation can be found in the [Voip.ms Customer Portal](https://www.voip.ms/m/apidocs.php)
